@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: 关于我的博客
 ---
 
-Update the `menu/about.md` file to change your About page.
+一些笔记，还有一些话。
